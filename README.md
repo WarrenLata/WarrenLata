@@ -16,7 +16,7 @@ Tech i worked with
 -ML librairies(Sklearn,Pandans, Logistic regression,XGBoost,tensorflow)
 -MongoDb,Neo4j, MySQL
 
-Prefered field: NLP, biology
+Prefered field: NLP, biology and geoscience
 <!----- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...---->
