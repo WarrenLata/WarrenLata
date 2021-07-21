@@ -1,4 +1,4 @@
-![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/WarrenLata/WarrenLata/blob/c27482717995978587595aec786ee3f2e8d0482d/Untitled%20Design.jpg)
+![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/WarrenLata/WarrenLata/blob/a4cbacf7083069d09863b4f5e010ebd5dc55e0ee/Untitled%20Design1.jpg)
 
 # 👋 Hi, I’m Warren (@Wawa :wink: )
 
