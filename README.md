@@ -14,7 +14,7 @@ Tech i worked with
 -Mlflow
 -Docker
 -ML librairies(Sklearn,Pandans, Logistic regression,XGBoost,tensorflow)
--MongoDb,Neo4j
+-MongoDb,Neo4j, MySQL
 
 Prefered field: NLP, biology
 <!----- 👀 I’m interested in ...
@@ -25,6 +25,8 @@ Prefered field: NLP, biology
       * e_mail : warren.lata@telecomnancy.net
       
 I'm currently learning Airflow for model deployment and good pritices to make personnal models with OOP.
+
+
 <!---
 WarrenLata/WarrenLata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
