@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Warren (@Wawa :wink: )
 
 I'm a engineering student in computer science at Telecom nancy majoring in IA and Big Data. I'm also doing a double degree in mathematic for data science simulteabously.
-I’m interested in data science (analyzing and visualiting data, creating machine learning model alogorithm) and software engineering.
+I’m interested in data science (analyzing and visualiting data, creating machine learning model alogorithm), data engineering and software engineering.
 Some language i enjoy workin with include SQL, python ,matalab, R, Java and a little bit of javascript ;)
 
 Tech i worked with
