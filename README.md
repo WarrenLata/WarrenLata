@@ -1,3 +1,5 @@
+![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/WarrenLata/WarrenLata/blob/c27482717995978587595aec786ee3f2e8d0482d/Untitled%20Design.jpg)
+
 # 👋 Hi, I’m Warren (@Wawa :wink: )
 
 I'm a engineering student in computer science at Telecom nancy majoring in IA and Big Data. I'm also doing a double degree in mathematic for data science simulteabously.
